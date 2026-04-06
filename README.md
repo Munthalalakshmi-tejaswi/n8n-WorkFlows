@@ -29,12 +29,10 @@ src/            → Code (if any)
 
 ### 🔹 Gmail Automation Workflow
 
-![Workflow](<img width="699" height="371" alt="workflow1" src="https://github.com/user-attachments/assets/130a99d3-c615-48f7-a488-eccecaac3a81" />
+![Workflow](workflow1.png
 )
 
-### 🔹 Lead Management Workflow
 
-![Workflow](screenshots/workflow2.png)
 
 ## ▶️ How to Use
 

@@ -30,9 +30,10 @@ src/            → Code (if any)
 ### 🔹 Gmail Automation Workflow
 
 ![Workflow](workflow1.png
+)
+
+![Workflow](
 workflow2.png)
-
-
 
 ## ▶️ How to Use
 
